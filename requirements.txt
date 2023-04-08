@@ -3,4 +3,5 @@ pandas
 flask
 matplotlib
 ipykernal
+
 -e .
